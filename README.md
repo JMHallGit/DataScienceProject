@@ -1,2 +1,2 @@
-# DataScienceProject
+# Data Science Project
 This project was done in 2022 for COMP2200 (Data Science). In this project we were required to find a suitable topic...
